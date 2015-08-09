@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InteleksysForm</string>
+    <string name="action_settings">Settings</string>
+    <string name="q1">1. Можете ли да се определите като финансово независим човек? *</string>
+    <string name="yes">Да</string>
+    <string name="maybe">Може би</string>
+    <string name="maybe_yes">По-скоро да</string>
+    <string name="maybe_no">По-скоро не</string>
+    <string name="no">Не</string>
+    <string name="dknow">Не знам</string>
+    <string name="q2">2. Мислите ли, че е възможно всеки човек да бъде финансово независим? *</string>
+    <string name="q3">3. Вие искате ли да сте финансово независим?</string>
+    <string name="q3hint">(пропуснете в случай, че отговорите на предходните два въпроса са положителни/Да)</string>
+    <string name="q4">4. Умеете ли да управлявате и контролирате парите си? *</string>
+    <string name="q4a1">Стигат ми до заплата</string>
+    <string name="q4a2">Стигат ми и успявам да заделям</string>
+    <string name="q4a3">Чакам с нетърпение следващата заплата</string>
+    <string name="q5">5. Според Вас, кои са основните проблеми при управлението на личните финанси? *</string>
+    <string name="q5hint">(възможни са няколко отговора)</string>
+	<string name="q5a1">Липса на самодисциплина</string>
+	<string name="q5a2">Много непредвидени разходи</string>
+	<string name="q5a3">Недостатъчен приход</string>
+	<string name="q5a4">Липса на информация за използването на различни финансови продукти</string>
+	<string name="q5a5">Друго:</string>
+	<string name="q6">6. Имате ли желание да получите информация и практични съвети във връзка с управлението на вашите лични финанси? *</string>
+	<string name="q7">7. Бихте ли се консултирали с финансов специалист във връзка с вашите лични финанси? *</string>
+	<string name="q7a1">Да, със счетоводител</string>
+	<string name="q7a2">Да, с банкер</string>
+	<string name="q7a3">Да, с финансов консултант</string>
+	<string name="q7a4">Да, с финансов брокер</string>
+	<string name="q8">8. Участвайки в тази анкета получихте възможност, да участвате в жребий за награди и материали, подобряващи финансовата култура. </string>
+	<string name="q8hint">(моля напишете две имена)</string>
+	<string name="q8phone">Моля напишете телефон за връзка</string>
+	<string name="q8email">Моля напишете валиден e-mail</string>
+	<string name="btnFormSend">Изпращане</string>
+	<string name="sentText">Отговорът ви бе записан.</string>
+	<string name="sendAgain">Изпращане на друг отговор</string>
+
+</resources>
